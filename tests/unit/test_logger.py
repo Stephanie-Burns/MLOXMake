@@ -1,7 +1,10 @@
 import logging
+
+import pytest
+
 from MLOXMaker.config.settings import Settings
 from MLOXMaker.managers.app_log import AppLogFormatter, AppLog, LogGroup, LogEvent
-import pytest
+
 
 @pytest.fixture(autouse=True)
 def override_settings(monkeypatch):

@@ -3,6 +3,7 @@ from pathlib import Path
 
 from MLOXMaker.managers.app_log import AppLog, LogGroup, LogEvent
 
+
 class ErrorLevel(StrEnum):
     """Defines severity levels for MLOXMaker errors."""
     WARNING = auto()       # ⚠️ Non-critical, operation continues
