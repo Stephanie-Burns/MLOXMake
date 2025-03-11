@@ -33,7 +33,7 @@
 - Potentially **sync with mlox’s GitHub rules repository** to keep rules up to date.  
 - Allow for **future migration to a web-based system** if adoption grows.  
 
----
+
 
 ## **❌ What It Should NOT Do**  
 
