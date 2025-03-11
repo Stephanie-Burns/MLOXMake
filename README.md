@@ -1,3 +1,6 @@
+
+[Browse Documentation](docs/strategy/index.md)
+
 ## **✅ What the mlox Visualization & Rule Automation Tool Should Do**  
 
 ### **Rule Creation & Editing**  
